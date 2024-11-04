@@ -9,7 +9,7 @@ export default function CandidatePresentation() {
           Interactive Dashboard Demo
         </h1>
         <p className="text-lg mb-6 text-blue-100">
-          As a candidate for the Data Analyst position at ViseVision Technologies, I've created this interactive dashboard to demonstrate my capabilities in data visualization, analysis, and full-stack development.
+          Oussama Zribi, As a candidate for the Data Analyst position at ViseVision Technologies, I've created this interactive dashboard to demonstrate my capabilities in data visualization, analysis, and full-stack development.
         </p>
         <div className="flex flex-wrap gap-4 mb-6">
           <span className="px-3 py-1 bg-white/20 rounded-full text-sm">React</span>
